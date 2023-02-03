@@ -4,6 +4,15 @@
 # Matthew Norman Gee
 
 </center>
+<center>
+Phone Number: 123-456-7890
+</center>
+<center>
+Home Address: 123 Thurston Ave, Ithaca, NY, 14850
+</center>
+<center>
+Linkedin: matthew-n-gee
+</center>
 
 ![This is
 me](https://images.unsplash.com/photo-1600804889194-e6fbf08ddb39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29vbCUyMGd1eXxlbnwwfHwwfHw%3D&w=1000&q=80)
