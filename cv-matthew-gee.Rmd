@@ -46,4 +46,4 @@ Linkedin: matthew-n-gee
   + Used GIS with LandSat 7 to monitor kit foxes
   + Contributed to a written paper for peer-reviewed journal
 
-This is a footnote^[This is the footnote!]
+You better hire this man^[A very dedicated, hard worker indeed!]

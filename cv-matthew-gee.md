@@ -45,6 +45,6 @@ me](https://images.unsplash.com/photo-1600804889194-e6fbf08ddb39?ixlib=rb-4.0.3&
 - Used GIS with LandSat 7 to monitor kit foxes
 - Contributed to a written paper for peer-reviewed journal
 
-This is a footnote[^1]
+You better hire this man[^1]
 
-[^1]: This is the footnote!
+[^1]: A very dedicated, hard worker indeed!
