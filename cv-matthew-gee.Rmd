@@ -35,7 +35,11 @@ Linkedin: matthew-n-gee
 [**2016-2019**]{style="float:right"}
 
   + *University of California, Davis*
-  
+
+# Skills
+
+* Proficiency with ArcGIS, QGIS, R, Tableau, Python, JavaScript
+
 # Experience
 
 1. **Laboratory and Field Technician**, UC Davis Department of Viticulture and Enology, *Davis, CA* [**2019**]{style="float:right"}
